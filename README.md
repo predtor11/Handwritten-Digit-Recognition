@@ -1,15 +1,19 @@
 ### Handwritten-Digit-Recognition
 ### Handwritten Digit Recognition with GUI – Guide
-
+### Content
+- [Prerequisites](Prerequisites)
+- [Installation](Installation)
+- [Workflow](Workflow)
+- [Customization](Customization)
 This guide explains how to create a Handwritten Digit Recognition application using a Convolutional Neural Network (CNN) model and a graphical user interface (GUI) built with the Tkinter library. The application allows users to draw digits on a canvas and predicts the drawn digits in real-time.
 
-**•	Prerequisites**
+## **•	Prerequisites**
   - Basic understanding of Python programming
   -	Familiarity with deep learning concepts and the Keras library
   -	Basic knowledge of GUI development with Tkinter
-  -	Python 3.x installed on your machine
+  -	Python 3.x installed on your machine]
 
-**•	Installation**
+## **•	Installation**
 
   1.	Clone or download the repository to your local machine.
   2.	Install the necessary Python libraries using the following command:
