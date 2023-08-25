@@ -1,7 +1,7 @@
 ### Handwritten-Digit-Recognition
 ### Handwritten Digit Recognition with GUI – Guide
 ### Content
-- [Prerequisites](Prerequisites)
+- [Prerequisites](https://github.com/predtor11/Handwritten-Digit-Recognition/edit/main/README.md#prerequisites)
 - [Installation](Installation)
 - [Workflow](Workflow)
 - [Customization](Customization)
@@ -29,7 +29,7 @@ This guide explains how to create a Handwritten Digit Recognition application us
   8.	The predicted digit and the associated confidence level will be displayed on the GUI.
   9.	To clear the canvas and draw a new digit, click the "Clear" button.
 
-**•	Workflow**
+## Workflow
 
   **1.	Import Libraries and Load the Dataset:**
   - Import the necessary modules, including Keras, for training the model.
@@ -66,6 +66,6 @@ This guide explains how to create a Handwritten Digit Recognition application us
   - Preprocess the captured image and predict the digit using the model.
   - Display the predicted digit and confidence level on the GUI.
 
-**• Customization**
+## Customization
   - Customize the GUI appearance, layout, and interaction logic by modifying the App class within the gui_digit_recognizer.py script.
   - To use your own trained model, update 'mnist.h5' with the path to your trained model file in the predict_digit function.
