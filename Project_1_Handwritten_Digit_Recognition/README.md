@@ -1,5 +1,4 @@
 ### Handwritten-Digit-Recognition
-### Handwritten Digit Recognition with GUI – Guide
 
 This guide explains how to create a Handwritten Digit Recognition application using a Convolutional Neural Network (CNN) model and a graphical user interface (GUI) built with the Tkinter library. The application allows users to draw digits on a canvas and predicts the drawn digits in real-time.
 
@@ -65,3 +64,4 @@ This guide explains how to create a Handwritten Digit Recognition application us
 ## Customization
   - Customize the GUI appearance, layout, and interaction logic by modifying the App class within the gui_digit_recognizer.py script.
   - To use your own trained model, update 'mnist.h5' with the path to your trained model file in the predict_digit function.
+
